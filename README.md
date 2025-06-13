@@ -1,7 +1,7 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-![Sufwan Saleem](/images/Banner.png)
+![Sufwan Saleem](images/Banner.png)
 
 ### Hi there, I'm Sufwan Saleem - aka [ZeoLion][website] 👋
 
