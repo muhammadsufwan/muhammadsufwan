@@ -24,7 +24,7 @@ Don't be hesitent to connect. I promise I wont bite :smile:
 [<img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 [<img align="left" alt="WhatsApp" width="30px" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" />][whatsapp]
 [<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
-
+[<img align="left" alt="Linktree" width="30px" src="https://cdn-icons-png.flaticon.com/512/4081/4081879.png" />][linktree]
 <!-- [<img src="../images/linkedin.png" alt="drawing" style="width:200px;"/>][website] -->
 
 <br />
