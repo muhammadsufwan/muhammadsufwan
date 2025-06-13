@@ -3,9 +3,9 @@
 
 ![Sufwan Saleem](images/Banner.png)
 
-### Hi there, I'm Sufwan Saleem - aka [ZeoLion][website] 👋
+### Hi there, I'm Sufwan Saleem -[sufwanDev][website] 👋
 
-[![Portfolio Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+<!-- [![Portfolio Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website] -->
 ![Github Followers](https://img.shields.io/github/followers/xeeshanqaswar?style=for-the-badge)
 
 ## :joystick: I'm a Game Developer!!
@@ -20,24 +20,24 @@
 
 Don't be hesitent to connect. I promise I wont bite :smile:
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
+[<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
+[<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592770-46d1f121-efc4-4c30-b001-09a25fdcd12f.png" />][Behance]
+<!-- [<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592770-46d1f121-efc4-4c30-b001-09a25fdcd12f.png" />][Behance]
 
-[<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139592808-945e575e-4438-4538-b45b-f1416581ea61.png" />][instagram]
+[<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592808-945e575e-4438-4538-b45b-f1416581ea61.png" />][instagram] -->
 
 <!-- [<img src="../images/linkedin.png" alt="drawing" style="width:200px;"/>][website] -->
 
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Zeeshan Qaswar" width="30px" src="https://user-images.githubusercontent.com/7692061/139595497-0955b7f5-9632-4a94-a56a-168d396094f4.png"/>
+<!-- <img align="left" alt="Sufwan Saleem" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" alt="Sufwan Saleem" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> -->
+<img align="left" alt="Sufwan Saleem" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Sufwan Saleem" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139595497-0955b7f5-9632-4a94-a56a-168d396094f4.png"/>
 
 <br />
 
@@ -56,10 +56,10 @@ Don't be hesitent to connect. I promise I wont bite :smile:
 
 
 <!-- MAJOR LINKS -->
-[website]: https://xeeshanqaswar.github.io
+[website]: https://google.com
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/zeeshan.qaswar/?hl=en
-[linkedin]: https://www.linkedin.com/in/zeolion/
+[linkedin]: https://www.linkedin.com/in/sufwan-s-362b27198
 [Skype]: https://join.skype.com/invite/p92p125btHMA
 [Behance]: https://www.behance.net/zeeshanqawar
 [Upwork]: https://www.upwork.com/freelancers/~0129c8eecddd0f5fce
