@@ -3,7 +3,7 @@
 
 ![Sufwan Saleem](images/Banner.png)
 
-### Hi there, I'm Sufwan Saleem -[sufwanDev][website] 👋
+### Hi there, I'm Sufwan Saleem - [sufwanDev][website] 👋
 
 <!-- [![Portfolio Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website] -->
 ![Github Followers](https://img.shields.io/github/followers/xeeshanqaswar?style=for-the-badge)
@@ -20,7 +20,7 @@
 
 Don't be hesitent to connect. I promise I wont bite :smile:
 
-[<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype]
+<!-- [<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592632-0efd96e0-a8cb-44e9-a171-8a6b20b9d294.png" />][Skype] -->
 
 [<img align="left" alt="Sufwan Saleem" width="30px" src="https://user-images.githubusercontent.com/7692061/139592708-0354fdca-bd2a-4700-a929-bba81f8250a2.png" />][linkedin]
 
